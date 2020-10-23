@@ -1,0 +1,21 @@
+.heading
+{
+font-size: 30px;width: 100%;margin: 0px;box-shadow: 10px 10px 20px darkblue;font-family: 'Lobster', cursive;
+}
+.heading_div
+{
+float: none;padding: 10px;color: black;background: cyan;border-radius: 20px;
+}
+.heading_div_2
+{
+font-size: 20px;color: darkslategray;
+}
+canvas
+{
+border: 10px solid darkslategray;margin-top: 80px;border-radius: 20px;box-shadow: 15px 15px 20px cornflowerblue;
+}
+.footer_div
+{
+position: fixed;bottom: 0;width: 100%;text-align: center;background-color: firebrick;color: floralwhite;
+font-weight: bold;
+}
